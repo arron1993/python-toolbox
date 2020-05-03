@@ -1,0 +1,13 @@
+Monstrosity of a script that will run the follower linters using on files
+git status says have been modified
+
+* flake8
+* tslint
+* jshint
+* csslint
+
+For JSHint it will also adding missing semi colons automatically.
+
+It will also check python scripts and javascript files from print() and console.log
+statements respectively. I have a habit of forgetting to delete them when I
+use them as placeholders
